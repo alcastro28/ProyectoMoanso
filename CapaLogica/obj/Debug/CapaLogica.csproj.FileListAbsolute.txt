@@ -1,0 +1,121 @@
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaLogica\obj\Debug\CapaLogica.pdb

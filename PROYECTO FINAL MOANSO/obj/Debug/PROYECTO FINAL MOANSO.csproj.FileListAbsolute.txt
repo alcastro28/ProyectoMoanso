@@ -1,0 +1,204 @@
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe.config
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.dll
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.pdb
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.AssemblyReference.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Form1.resources
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Properties.Resources.resources
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.GenerateResource.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CoreCompileInputs.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CopyComplete
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.pdb
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll.config
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe.config
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll.config
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Form1.resources
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Properties.Resources.resources
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.GenerateResource.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CopyComplete
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe.config
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.dll
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll.config
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Form1.resources
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Properties.Resources.resources
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CopyComplete
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe.config
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.dll
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll.config
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.AssemblyReference.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Form1.resources
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Properties.Resources.resources
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.GenerateResource.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CoreCompileInputs.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CopyComplete
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe.config
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.dll
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll.config
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.AssemblyReference.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Form1.resources
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Properties.Resources.resources
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.GenerateResource.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CoreCompileInputs.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CopyComplete
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe.config
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll.config
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Form1.resources
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Properties.Resources.resources
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.GenerateResource.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CopyComplete
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe.config
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll.config
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Form1.resources
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Properties.Resources.resources
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.GenerateResource.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CopyComplete
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe.config
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.dll
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll.config
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.AssemblyReference.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Form1.resources
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Properties.Resources.resources
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.GenerateResource.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CoreCompileInputs.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CopyComplete
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe.config
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll.config
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Form1.resources
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CopyComplete
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe.config
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.pdb
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll.config
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Form1.resources
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CopyComplete
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe.config
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.dll
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll.config
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.AssemblyReference.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Form1.resources
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Properties.Resources.resources
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.GenerateResource.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CoreCompileInputs.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CopyComplete
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe.config
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\bin\Debug\PROYECTO FINAL MOANSO.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.dll
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\bin\Debug\CapaEntidad.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\bin\Debug\CapaPresentación.dll.config
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.AssemblyReference.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Form1.resources
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO_FINAL_MOANSO.Properties.Resources.resources
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.GenerateResource.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CoreCompileInputs.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.csproj.CopyComplete
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.exe
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\PROYECTO FINAL MOANSO\obj\Debug\PROYECTO FINAL MOANSO.pdb

@@ -1,0 +1,66 @@
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaEntidad\obj\Debug\CapaEntidad.pdb

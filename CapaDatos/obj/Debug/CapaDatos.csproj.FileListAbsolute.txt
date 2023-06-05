@@ -1,0 +1,99 @@
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaDatos\obj\Debug\CapaDatos.pdb

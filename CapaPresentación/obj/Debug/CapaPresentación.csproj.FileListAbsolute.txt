@@ -1,0 +1,653 @@
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\CapaPresentación.pdb
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\obj\Debug\CapaPresentación.pdb
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll.config
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\RestSharp.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Buffers.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.CodeDom.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Data.Odbc.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Data.OleDb.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Data.SqlClient.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Drawing.Common.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.IO.Packaging.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.IO.Ports.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Memory.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Security.AccessControl.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Security.Permissions.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll.licenses
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.Fody.CopyLocal.cache
+C:\Users\newbr\Documents\Documentos visual studio\PROYECTO FINAL MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Registro.resources
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll.config
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\RestSharp.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Buffers.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.CodeDom.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.Odbc.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.OleDb.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Drawing.Common.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Packaging.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Ports.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Memory.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Permissions.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.CoreVenta.resources
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorCliente.resources
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorEmpleado.resources
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProveedores.resources
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Inicio.resources
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll.licenses
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.Fody.CopyLocal.cache
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll.config
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\RestSharp.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Buffers.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.CodeDom.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.Odbc.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.OleDb.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Drawing.Common.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Packaging.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Ports.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Memory.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Permissions.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.CoreVenta.resources
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorCliente.resources
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorEmpleado.resources
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProveedores.resources
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Inicio.resources
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll.licenses
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.Fody.CopyLocal.cache
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProductos.resources
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll.config
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.pdb
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\RestSharp.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Buffers.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.CodeDom.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.Odbc.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.OleDb.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.SqlClient.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Drawing.Common.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Packaging.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Ports.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Memory.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.AccessControl.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Permissions.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.CoreVenta.resources
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorCliente.resources
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorEmpleado.resources
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProductos.resources
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProveedores.resources
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Inicio.resources
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll.licenses
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.Fody.CopyLocal.cache
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll.config
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.pdb
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\RestSharp.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Buffers.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.CodeDom.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.Odbc.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.OleDb.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Drawing.Common.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Packaging.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Ports.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Memory.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Permissions.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.CoreVenta.resources
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorCliente.resources
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorEmpleado.resources
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorMantenimiento.resources
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProductos.resources
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProveedores.resources
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorReserva.resources
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Inicio.resources
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll.licenses
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.Fody.CopyLocal.cache
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll
+C:\Users\jhose\Pfinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll.config
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.pdb
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\RestSharp.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Buffers.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.CodeDom.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.Odbc.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.OleDb.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Drawing.Common.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Packaging.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Ports.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Memory.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Permissions.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.CoreVenta.resources
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorCliente.resources
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorEmpleado.resources
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorMantenimiento.resources
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProductos.resources
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProveedores.resources
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorReserva.resources
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Inicio.resources
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll.licenses
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.Fody.CopyLocal.cache
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll
+C:\Users\HectorPc\Desktop\Clonacionxd\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.pdb
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorMantenimiento.resources
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProductos.resources
+C:\Users\HectorPc\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorReserva.resources
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorMantenimiento.resources
+C:\Users\newbr\Documents\Proyectos\Proyecto Moanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorReserva.resources
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll.config
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.pdb
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\RestSharp.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Buffers.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.CodeDom.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.Odbc.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.OleDb.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Drawing.Common.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Packaging.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Ports.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Memory.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Permissions.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.CoreVenta.resources
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorCliente.resources
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorEmpleado.resources
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorMantenimiento.resources
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProductos.resources
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProveedores.resources
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorReserva.resources
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Inicio.resources
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll.licenses
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.Fody.CopyLocal.cache
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll
+C:\Users\HectorPc\Desktop\Nueva carpeta (2)\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll.config
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.pdb
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\RestSharp.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Buffers.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.CodeDom.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.Odbc.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.OleDb.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Drawing.Common.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Packaging.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Ports.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Memory.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Permissions.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.CoreVenta.resources
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorCliente.resources
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorEmpleado.resources
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorMantenimiento.resources
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProductos.resources
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProveedores.resources
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorReserva.resources
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Inicio.resources
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll.licenses
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.Fody.CopyLocal.cache
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll
+C:\Users\jhose\ProyectoFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.pdb
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorMantenimiento.resources
+C:\Users\Jose\Desktop\ProyectoMoanso\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorReserva.resources
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll.config
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.pdb
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.Odbc.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.OleDb.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Drawing.Common.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Packaging.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Ports.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Permissions.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.CoreVenta.resources
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorCliente.resources
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorEmpleado.resources
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorMantenimiento.resources
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProductos.resources
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProveedores.resources
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorReserva.resources
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Inicio.resources
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll.licenses
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.Fody.CopyLocal.cache
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll
+C:\Users\Usuario\Desktop\a\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.pdb
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll.config
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.pdb
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.Odbc.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.OleDb.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Drawing.Common.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Packaging.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Ports.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Permissions.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.CoreVenta.resources
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorCliente.resources
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorEmpleado.resources
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorMantenimiento.resources
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProductos.resources
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProveedores.resources
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorReserva.resources
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Inicio.resources
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll.licenses
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.Fody.CopyLocal.cache
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll
+C:\Users\Usuario\Desktop\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll.config
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.dll
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\CapaPresentación.pdb
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\RestSharp.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Buffers.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.CodeDom.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.Odbc.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.OleDb.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Drawing.Common.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Packaging.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.IO.Ports.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Memory.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Permissions.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.CoreVenta.resources
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorCliente.resources
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorEmpleado.resources
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorMantenimiento.resources
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProductos.resources
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProveedores.resources
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.MantenedorReserva.resources
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.Inicio.resources
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll.licenses
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.Fody.CopyLocal.cache
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.dll
+C:\Users\jhose\PreoyectFinal\PROYECTO-FINAL-MOANSO\CapaPresentación\obj\Debug\CapaPresentación.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\CapaPresentación.dll.config
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\CapaPresentación.dll
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\CapaPresentación.pdb
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\Newtonsoft.Json.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\RestSharp.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Buffers.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.CodeDom.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Data.Odbc.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Data.OleDb.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Data.SqlClient.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Drawing.Common.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.IO.Packaging.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.IO.Ports.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Memory.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Security.AccessControl.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Security.Permissions.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.CoreVenta.resources
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.MantenedorCliente.resources
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.MantenedorEmpleado.resources
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.MantenedorMantenimiento.resources
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProductos.resources
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.MantenedorProveedores.resources
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.MantenedorReserva.resources
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.Inicio.resources
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.dll.licenses
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.csproj.Fody.CopyLocal.cache
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.dll
+C:\Users\newbr\OneDrive\Documentos\Proyectos\PROYECTO-FINAL-MOANSO-main\CapaPresentación\obj\Debug\CapaPresentación.pdb
